@@ -1,3 +1,0 @@
-puts "seeding...."
-note= Note.create(notes:"Notes is a notetaking app developed by Apple Inc. It is provided on their iOS, iPadOS and macOS operating systems, the latter starting with OS X Mountain Lion. It functions as a service for making short text notes, which can be synchronized between devices using Apple's iCloud service. The application uses a similar interface on iOS and macOS, with a non-textured paper background for notes and light yellow icons, suggesting pencil or crayon. Until 2013, both applications used a strongly skeuomorphic interface, with a lined, textured paper design; the Mountain Lion version placed this inside a leather folder")
-puts "Done seeding"
