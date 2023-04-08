@@ -7,6 +7,7 @@ class AuthController < ApplicationController
         else
             render json: { message: 'Invalid username or password' }, status: :unauthorized
         end
+        
     end
     private
     def user_login_params
